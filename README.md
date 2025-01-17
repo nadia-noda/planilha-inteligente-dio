@@ -6,7 +6,7 @@
 
 Projeto com o objetivo de gerar uma planilha inteligente para organizar a vida financeira com as facilidades das ferramentas de IA.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/nadia-noda/planilha-inteligente-dio/blob/main/Exel%20-%20Planilha%20Inteligente.xlsx" title="View EXCEL now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -21,7 +21,7 @@ Projeto com o objetivo de gerar uma planilha inteligente para organizar a vida f
 
 ## 📚 Materiais
 
-- planilha gerado durante as aulas em `output`
+- Planilha gerado durante as aulas em `output`
 
 
 
